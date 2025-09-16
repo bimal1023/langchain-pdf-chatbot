@@ -21,8 +21,8 @@ This is a Streamlit web application that allows users to upload a PDF document a
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>.git
-    cd <YOUR_REPO_NAME>
+    git clone [https://github.com/](https://github.com/)<bimal1023>/<langchain-pdf-chatbot>.git
+    cd <langchain-pdf-chatbot>
     ```
 
 2.  **Install the required libraries:**
