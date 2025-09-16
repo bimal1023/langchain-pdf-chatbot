@@ -14,7 +14,7 @@ This is a Streamlit web application that allows users to upload a PDF document a
 
 -   **[Streamlit](https://streamlit.io/)**: For the web application framework.
 -   **[LangChain](https://www.langchain.com/)**: For building the LLM application pipeline.
--   **[OpenAI](https://openai.com/)**: Provides the embedding and chat models (`gpt-3.5-turbo`).
+-   **[OpenAI](https://openai.com/)**: Provides the embedding and chat models (`gpt-5`).
 -   **[PyPDFLoader](https://python.langchain.com/docs/integrations/document_loaders/pypdfloader/)**: For loading PDF documents.
 
 ## How to Run the Application Locally
